@@ -1,1 +1,0 @@
-# DjangoTraining-Day_6
